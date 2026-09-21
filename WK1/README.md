@@ -40,7 +40,5 @@ Calculates car fuel consumption in liters per 100 km.
 
 ---
 
-## How to Run the Programs
 
-Open terminal in VS Code and type:
 
