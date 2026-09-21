@@ -1,9 +1,9 @@
 print("Calculate the area of a wall.")
 
-Feed = input("2")
+Feed = input("")
 Width = int(Feed)
 
-Feed = input("3")
+Feed = input("")
 Height = int(Feed)
 
 print(f"Width is {Width} m and height is {Height} m.")
