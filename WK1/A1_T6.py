@@ -1,5 +1,5 @@
 print("Insert an integer: ")
-Feed = input(479)
+Feed = input()
 
 Value = int(Feed)
 
